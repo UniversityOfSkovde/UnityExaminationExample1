@@ -4398,7 +4398,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7193953762524490529, guid: efb3dda76af81f64fa006fe06c96b25d, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7451905014938572032, guid: efb3dda76af81f64fa006fe06c96b25d, type: 3}
       propertyPath: textBox
